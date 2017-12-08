@@ -12,3 +12,4 @@
 ## UTF-8 : https://fr.wikipedia.org/wiki/UTF-8#Universalit.C3.A9
 ## Les caractères spéciaux : http://outils-javascript.aliasdmc.fr/generateur-caracteres-speciaux-accentues-html-css-js.php
 ## Comment diagnostiquer un problème d'encodage ISO ou UTF-8  ? : https://www.alsacreations.com/astuce/lire/85-comment-diagnostiquer-un-problme-dencodage-iso-ou-utf-8nbsp.html
+## Encodage UTF-8 : http://www.zone-webmasters.net/publications/49-encodage-utf-8.html
