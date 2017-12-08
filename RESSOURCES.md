@@ -5,4 +5,6 @@
 ## LISTE NON EXHAUSTIVE :
 
 ## Tutoriel : Comprendre les encodages
-### http://sdz.tdct.org/sdz/comprendre-les-encodages.html
+http://sdz.tdct.org/sdz/comprendre-les-encodages.html
+
+##
