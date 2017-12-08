@@ -14,10 +14,10 @@
 
 ### c) ASCII
 
-## III°/
+## III°/ Dans la pratique
 
-### a)
+### a) Detection et manipulation de l'encodage 
 
-### b)
+### b) Les caractères spéciaux
 
 ### c)
