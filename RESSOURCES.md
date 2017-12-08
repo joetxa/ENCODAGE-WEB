@@ -11,3 +11,4 @@
 ## Comment diagnostiquer un problème d'encodage : https://www.alsacreations.com/astuce/lire/85-Commentdiagnostiquerunprobl-medencodageISOouUTF-8nbsp.html
 ## UTF-8 : https://fr.wikipedia.org/wiki/UTF-8#Universalit.C3.A9
 ## Les caractères spéciaux : http://outils-javascript.aliasdmc.fr/generateur-caracteres-speciaux-accentues-html-css-js.php
+## Comment diagnostiquer un problème d'encodage ISO ou UTF-8  ? : https://www.alsacreations.com/astuce/lire/85-comment-diagnostiquer-un-problme-dencodage-iso-ou-utf-8nbsp.html
