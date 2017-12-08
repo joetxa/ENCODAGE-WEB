@@ -6,13 +6,13 @@
 
 ### b) Présentation  des différents formats
 
-## II°/ Utilisation des différents formats
+## II°/ Les formats les plus utilisés
 
-### a) UTF-8 et UTF-16
+### a) UTF-8 
 
-### b) 
+### b) UTF-16
 
-### c)
+### c) ASCII
 
 ## III°/
 
