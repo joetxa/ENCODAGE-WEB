@@ -1,18 +1,16 @@
 # TABLE OF CONTENT
 
-## I°/
+## I°/ Qu'est-ce qu'un format d'encodage ?
 
-### a)
+### a) Définition
 
-### b)
+### b) Présentation  des différents formats
 
-### c)
+## II°/ Utilisation des différents formats
 
-## II°/
+### a) UTF-8 et UTF-16
 
-### a)
-
-### b)
+### b) 
 
 ### c)
 
