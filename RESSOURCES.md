@@ -10,3 +10,4 @@
 ## De l'ASCII à l'UTF-8 : http://www.figer.com/Publications/utf8.htm#.WiqVeLSdUWo
 ## Comment diagnostiquer un problème d'encodage : https://www.alsacreations.com/astuce/lire/85-Commentdiagnostiquerunprobl-medencodageISOouUTF-8nbsp.html
 ## UTF-8 : https://fr.wikipedia.org/wiki/UTF-8#Universalit.C3.A9
+## Les caractères spéciaux : http://outils-javascript.aliasdmc.fr/generateur-caracteres-speciaux-accentues-html-css-js.php
