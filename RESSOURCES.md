@@ -4,7 +4,6 @@
 
 ## LISTE NON EXHAUSTIVE :
 
-## Tutoriel : Comprendre les encodages : 
-http://sdz.tdct.org/sdz/comprendre-les-encodages.html
+## Tutoriel : Comprendre les encodages : http://sdz.tdct.org/sdz/comprendre-les-encodages.html
 ## L'encodage des fichiers et les caractères spéciaux : http://formation.upyupy.fr/html-xhtml/caracteres-speciaux/
 ## C'est quoi l'ASCII, l'UNICODE, l'UTF-8 ? : http://sebsauvage.net/comprendre/ascii/ 
