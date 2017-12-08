@@ -19,5 +19,3 @@
 ### a) Detection et manipulation de l'encodage 
 
 ### b) Les caractères spéciaux
-
-### c)
